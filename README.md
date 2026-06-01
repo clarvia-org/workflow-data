@@ -15,6 +15,8 @@ This repository is the core data layer for Clarvia's open bereavement workflow i
 - review pipelines,
 - and lightweight public API views.
 
+> **Note:** The graph infrastructure is moving to [`clarvia-graph`](https://github.com/clarvia-org/clarvia-graph), which introduces formal schemas, a source-backed consequence model, and a validation pipeline. This repository remains the legacy checklist corpus and migration source. Existing contributions here remain valuable — source-backed items will be migrated to the new graph model.
+
 ---
 
 ## How to help in under 30 minutes
@@ -150,3 +152,11 @@ Unless otherwise specified:
 
 - workflow data, documentation, and source metadata are licensed under [Creative Commons Attribution 4.0 International](LICENSES/CC-BY-4.0.txt);
 - code and tooling are licensed under [Apache License 2.0](LICENSES/Apache-2.0.txt).
+
+## Related repositories
+
+| Repository | Role |
+|---|---|
+| [clarvia-graph](https://github.com/clarvia-org/clarvia-graph) | Open consequence graph — schemas, validation, sources, exports |
+| [workflow-web](https://github.com/clarvia-org/workflow-web) | Consumer web layer for publishing checklists |
+| [.github](https://github.com/clarvia-org/.github) | Organization-wide community health files |
