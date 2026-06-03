@@ -17,6 +17,18 @@ This repository is the core data layer for Clarvia's open bereavement workflow i
 
 > **Note:** The graph infrastructure is moving to [`clarvia-graph`](https://github.com/clarvia-org/clarvia-graph), which introduces formal schemas, a source-backed consequence model, and a validation pipeline. This repository remains the legacy checklist corpus and migration source. Existing contributions here remain valuable — source-backed items will be migrated to the new graph model.
 
+## Development model
+
+This repository contains the legacy checklist corpus and migration source for Clarvia's source-backed bereavement workflow data.
+
+It is being maintained as part of a phased transition. Early workflow data, source records, and checklist structures are developed with internal resources so that the project can validate source collection methods, review states, jurisdiction modelling, and limited early checklist usefulness before larger funding cycles conclude.
+
+This early data work is not a substitute for funded validation. It provides a practical base for migration, review, and improvement.
+
+Future funded phases will support deeper source checking, expert review, localization, data quality improvement, validation rules, documentation, migration into `clarvia-graph`, and long-term stewardship of the workflow data.
+
+The goal is to preserve the value of early structured work while making clear that published guidance should only mature through proper source review, validation, and approval.
+
 ---
 
 ## How to help in under 30 minutes
