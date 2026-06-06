@@ -1,5 +1,5 @@
 # workflow-data
-[![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
 
 > ⚠️ **Status: Legacy — migrating to [clarvia-graph](https://github.com/clarvia-org/clarvia-graph).** New contributions should target the graph repo unless explicitly for migration. See the [transition note](https://github.com/clarvia-org/clarvia-graph#status) for details.
 
