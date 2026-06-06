@@ -1,4 +1,7 @@
 # workflow-data
+[![License: EUPL-1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
+
+> ⚠️ **Status: Legacy — migrating to [clarvia-graph](https://github.com/clarvia-org/clarvia-graph).** New contributions should target the graph repo unless explicitly for migration. See the [transition note](https://github.com/clarvia-org/clarvia-graph#status) for details.
 
 **Open workflow data, schemas, and validation for source-backed administrative guidance.** This repository is the core data layer for Clarvia's open bereavement workflow infrastructure - designed for cross-jurisdiction reuse across European administrative systems. Every contribution - a source check, a schema improvement, a validation fix - strengthens a reusable commons for bereavement administration.
 
